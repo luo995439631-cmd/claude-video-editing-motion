@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'ZCOOL KuaiLe';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url(./zcool-0.woff2) format('woff2');
+  unicode-range: U+20-7e, U+b7, U+2014, U+2018-2019, U+201c-201d, U+2026, U+2728, U+2b50, U+3001-3002, U+300a-300b, U+3010-3011, U+4e0d, U+4e2d, U+4e86, U+4ea4, U+4eab, U+4eae, U+4ee3, U+4fdd, U+4fee, U+5149, U+514b, U+5165, U+5199, U+51b2, U+51fa-51fb, U+5206, U+524d, U+526a, U+52a8, U+5361, U+53d1, U+5446, U+548c, U+54d0, U+5728, U+573a, U+591c, U+592a, U+597d, U+5b57-5b58, U+5b8c, U+5bf9, U+5bfc, U+5c0f, U+5de5, U+5df2, U+5ea6, U+5f00, U+5f53, U+5fc3, U+603b, U+6210, U+6253, U+62c9, U+62dc, U+62ff, U+634f, U+63d0, U+64a4, U+6536, U+6539, U+653e, U+6545, U+6574, U+6587, U+65b9, U+65cb, U+65f6, U+666f, U+6700, U+6750, U+677f, U+67d3, U+67f4, U+6b63, U+6b7b, U+6bb5, U+6e32, U+6eb6, U+6ed1, U+70b9, U+7126, U+7206, U+7247-7248, U+72ac, U+753b, U+7801, U+79d2, U+7a7a, U+7aef, U+7d20, U+7ec8, U+7f29, U+7f51, U+7ffb, U+8036, U+80fd, U+81ea, U+8679, U+8868, U+89c8, U+89e3, U+8b66, U+8c03, U+8d77, U+8e66, U+8f6c, U+8f74, U+8f91, U+8fd9, U+8fea, U+901f, U+94bb, U+9500, U+957f, U+95ea, U+95f4, U+969c, U+9713, U+9762, U+9875, U+9884, U+9971, U+9ad8, U+fe0f, U+ff01, U+ff08-ff09, U+ff0c, U+ff1a, U+ff1f;
+}

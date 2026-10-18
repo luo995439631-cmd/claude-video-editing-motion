@@ -1,0 +1,8 @@
+﻿node_modules/
+out/
+.tmp/
+.npm-cache/
+reference/
+analysis/
+*.log
+.DS_Store

@@ -1,0 +1,23 @@
+{
+  "name": "claude-video-editing-motion",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Remotion recreation of a hand-drawn AI video-editing motion piece",
+  "license": "MIT",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts EditorMotion out/editor-motion.mp4 --codec=h264 --crf=18 --pixel-format=yuv420p --audio-codec=aac --audio-bitrate=256k",
+    "still": "remotion still src/index.ts EditorMotion out/still.png"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.536",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.536"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.12",
+    "@types/react-dom": "18.3.1",
+    "typescript": "5.7.2"
+  }
+}

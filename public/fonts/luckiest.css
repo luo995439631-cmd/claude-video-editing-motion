@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Luckiest Guy';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url(./luckiest-0.woff2) format('woff2');
+  unicode-range: U+21, U+42, U+4b, U+4e-4f;
+}

@@ -1,0 +1,86 @@
+{
+ "bpm": 92.0,
+ "duration": 30.0,
+ "cues": [
+  {
+   "t": 0.0,
+   "name": "terminal boot",
+   "type": "typing"
+  },
+  {
+   "t": 1.45,
+   "name": "editor builds in",
+   "type": "whoosh"
+  },
+  {
+   "t": 2.35,
+   "name": "crab arrives",
+   "type": "pop"
+  },
+  {
+   "t": 4.0,
+   "name": "clips added",
+   "type": "pop"
+  },
+  {
+   "t": 6.0,
+   "name": "focus / ramen",
+   "type": "whoosh"
+  },
+  {
+   "t": 8.0,
+   "name": "trash hit",
+   "type": "whoosh"
+  },
+  {
+   "t": 10.0,
+   "name": "transition panel",
+   "type": "whoosh"
+  },
+  {
+   "t": 12.0,
+   "name": "cat / stamp",
+   "type": "stamp"
+  },
+  {
+   "t": 14.6,
+   "name": "Ctrl+Z",
+   "type": "pop"
+  },
+  {
+   "t": 15.9,
+   "name": "saturation glitch",
+   "type": "glitch"
+  },
+  {
+   "t": 18.35,
+   "name": "back to normal",
+   "type": "whoosh"
+  },
+  {
+   "t": 21.8,
+   "name": "卡点",
+   "type": "bonk"
+  },
+  {
+   "t": 24.0,
+   "name": "export",
+   "type": "whoosh"
+  },
+  {
+   "t": 25.55,
+   "name": "BONK",
+   "type": "bonk"
+  },
+  {
+   "t": 26.1,
+   "name": "fade to endcard",
+   "type": "whoosh"
+  },
+  {
+   "t": 27.0,
+   "name": "endcard bells",
+   "type": "bell"
+  }
+ ]
+}
